@@ -55,3 +55,13 @@ Future Work
 Feedback
 
 Technical feedback, criticism, references to similar research, and suggestions for improvement are welcome.
+
+
+
+
+
+
+
+
+
+![Adaptive Microfluidic Cooling](file_00000000074c820e859d204fc64464fa.png)
